@@ -4,11 +4,12 @@
 **Interfaz / Modalidad:** Consola — 1v1 vs Computadora (IA)  
 
 ## Integrantes y aportes
-- Ignacio Nicolás Trivelli Medici
-- Tomás Simpson
+- Ignacio Nicolás Trivelli Medici (@ignatrivelli)
+- *(Tomás Simpson — Baja de cursada informada en Moodle)*
 
 ## Reglas y alcance
 Estrategia por turnos 1v1 en terminal. 5 barcos por jugador (1 portaaviones, 2 cruceros, 2 destructores). Dos tableros visualizados: propio con impactos recibidos y rival con disparos efectuados. Entrada por coordenadas fila/columna.
+*Nota de cátedra: continuidad individual tras baja de compañero.*
 
 ## Compilación y ejecución
 <!-- Indicar comandos de compilación (ej. gcc main.c ...) y dependencias necesarias -->
